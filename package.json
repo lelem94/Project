@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "get-google-fonts": "^1.2.2",
     "sass": "^1.58.3"
   }
 }

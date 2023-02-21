@@ -1,0 +1,6 @@
+
+// Dichiarazione di un mixin
+@mixin square($x,$y) {
+    width: $x;
+    height: $y;
+}

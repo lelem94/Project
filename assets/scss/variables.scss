@@ -1,5 +1,5 @@
 
-/* Colour Palette UI */
+/* Dichiarazione colori */
 $palette1: #4A2632;
 $palette2: #FEB561;
 $palette3: #A08986;
@@ -9,4 +9,4 @@ $palette4: #EADDCD;
 $primary: $palette4;
 $secondary: $palette3;
 $light: lighten($primary, 50%);
-$dark: darken($primary, 20%)
+$dark: darken($primary, 20%);

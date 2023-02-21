@@ -1,5 +1,10 @@
-@import "./variables.scss";
+// Definizione variabili da sovrascrivere
+@import "./variables";
 
 // Importo il sorgente di Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Mio CSS
+@import "./mixin";
+
 
