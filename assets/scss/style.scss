@@ -1,13 +1,5 @@
+@import "./variables.scss";
 
-/* Colour Palette UI */
-$palette1: #4A2632;
-$palette2: #FEB561;
-$palette3: #A08986;
-$palette4: #EADDCD;
+// Importo il sorgente di Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
 
-/* Genero 100 classi */
-@for $i from 1 through 100 {
-    .col-#{$i} {
-        width: $i * 10%;
-    }
-}

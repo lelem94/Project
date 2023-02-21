@@ -1,0 +1,12 @@
+
+/* Colour Palette UI */
+$palette1: #4A2632;
+$palette2: #FEB561;
+$palette3: #A08986;
+$palette4: #EADDCD;
+
+// Sovrascrittura variabili
+$primary: $palette4;
+$secondary: $palette3;
+$light: lighten($primary, 50%);
+$dark: darken($primary, 20%)
