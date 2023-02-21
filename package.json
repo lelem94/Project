@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "test": "echo \"Test\"",
+    "start": "sass assets/scss/style.scss assets/css/style.css --no-source-map -w"
+  },
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "^5.2.3",
+    "sass": "^1.58.3"
   }
 }
